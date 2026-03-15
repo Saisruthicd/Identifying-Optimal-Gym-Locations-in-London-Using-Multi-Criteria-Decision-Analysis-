@@ -1,0 +1,54 @@
+Regional gross disposable household income (GDHI) at current basic prices,,,
+ONS Crown Copyright Reserved [from Nomis on 8 April 2025],,,
+Analysis   :,standard,,
+Date       :,2021,,
+Component of GDHI:,Gross Disposable Household Income (GDHI),,
+,,,
+local authority: county / unitary (as of April 2021),mnemonic,Gross Disposable Household Income - GDHI (£m),GDHI per head (£)
+,,,
+Barking and Dagenham,E09000002,4079,18667
+Barnet,E09000003,12299,31645
+Bexley,E09000004,5676,23022
+Brent,E09000005,8758,25842
+Bromley,E09000006,9575,29032
+Camden,E09000007,12330,58604
+City of London,E09000001,1655,192005
+Croydon,E09000008,9498,24323
+Ealing,E09000009,9766,26673
+Enfield,E09000010,8107,24595
+Greenwich,E09000011,7155,24736
+Hackney,E09000012,7709,29655
+Hammersmith and Fulham,E09000013,8072,44040
+Haringey,E09000014,8419,31874
+Harrow,E09000015,7186,27535
+Havering,E09000016,6211,23702
+Hillingdon,E09000017,7008,22994
+Hounslow,E09000018,7249,25174
+Islington,E09000019,8112,37422
+Kensington and Chelsea,E09000020,13087,90917
+Kingston upon Thames,E09000021,5026,29942
+Lambeth,E09000022,10012,31534
+Lewisham,E09000023,7763,25892
+Merton,E09000024,6908,32084
+Newham,E09000025,7790,22217
+Redbridge,E09000026,7569,24430
+Richmond upon Thames,E09000027,8310,42567
+Southwark,E09000028,9514,31054
+Sutton,E09000029,5118,24426
+Tower Hamlets,E09000030,9279,29716
+Waltham Forest,E09000031,6806,24476
+Wandsworth,E09000032,13655,41584
+Westminster,E09000033,13821,67389
+Column Total,Column Total,273521,31094
+,,,
+,,,
+,Column totals may not sum due to rounding.,,
+,,,
+,,,
+,Growth in per head estimates between 2020 and 2021 are unreliable,,
+,"because of a discontinuity in population data for some areas,",,
+,caused by differences in the timing of census updates.,,
+,,,
+,,,
+,There may be discrepancies in these estimates compared to other published,,
+,estimates due to rounding.,,

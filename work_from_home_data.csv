@@ -1,0 +1,64 @@
+
+"TS058 - Distance travelled to work"
+"ONS Crown Copyright Reserved [from Nomis on 7 April 2025]"
+"Population :","All usual residents aged 16 years and over in employment the week before the census"
+"Units      :","Persons"
+"Date       :","2021"
+
+"2022 local authorities: county","mnemonic","Total: All usual residents aged 16 years and over in employment the week before the census","Works mainly from home"
+
+"Barking and Dagenham","E09000002",94589,19572
+"Barnet","E09000003",186176,79628
+"Bexley","E09000004",117984,40692
+"Brent","E09000005",160994,48987
+"Bromley","E09000006",162122,75511
+"Camden","E09000007",102513,58110
+"City of London","E09000001",5348,3602
+"Croydon","E09000008",189407,70976
+"Ealing","E09000009",175023,63137
+"Enfield","E09000010",143864,44977
+"Greenwich","E09000011",142934,57959
+"Hackney","E09000012",134311,66844
+"Hammersmith and Fulham","E09000013",98093,51319
+"Haringey","E09000014",134381,55767
+"Harrow","E09000015",125037,45175
+"Havering","E09000016",124784,41654
+"Hillingdon","E09000017",142805,45193
+"Hounslow","E09000018",138800,45047
+"Islington","E09000019",114971,64530
+"Kensington and Chelsea","E09000020",69442,40010
+"Kingston upon Thames","E09000021",84148,39251
+"Lambeth","E09000022",182819,91770
+"Lewisham","E09000023",155712,69977
+"Merton","E09000024",112065,48419
+"Newham","E09000025",163447,47737
+"Redbridge","E09000026",141627,49406
+"Richmond upon Thames","E09000027",97565,57322
+"Southwark","E09000028",166948,80842
+"Sutton","E09000029",104224,38024
+"Tower Hamlets","E09000030",155394,78219
+"Waltham Forest","E09000031",140373,52765
+"Wandsworth","E09000032",190443,107639
+"Westminster","E09000033",101742,56766
+
+
+
+"","In order to protect against disclosure of personal information, records"
+"","have been swapped between different geographic areas and counts perturbed"
+"","by small amounts. Small counts at the lowest geographies will be most"
+"","affected."
+"",""
+
+"","Census 2021 took place during a period of rapid change. We gave extra"
+"","guidance"
+"","to help people on furlough answer the census questions about work. However,"
+"","we"
+"","are unable to determine how furloughed people followed the guidance. Take"
+"","care"
+"","when using this data for planning purposes. Read more about specific"
+"","quality"
+"","considerations in our"
+"",""
+"","https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/employmentandemployeetypes/methodologies/traveltoworkqualityinformationforcensus2021"
+"",""
+

@@ -1,0 +1,51 @@
+
+"TS038 - Disability"
+"ONS Crown Copyright Reserved [from Nomis on 7 April 2025]"
+"Population :","All usual residents"
+"Units      :","Persons"
+"Date       :","2021"
+
+"2022 local authorities: county","mnemonic","Total: All usual residents","Disabled under the Equality Act"
+
+"Barking and Dagenham","E09000002",218868,28993
+"Barnet","E09000003",389344,49679
+"Bexley","E09000004",246472,36083
+"Brent","E09000005",339814,41163
+"Bromley","E09000006",329991,45894
+"Camden","E09000007",210136,31882
+"City of London","E09000001",8583,919
+"Croydon","E09000008",390719,54852
+"Ealing","E09000009",367115,44811
+"Enfield","E09000010",329984,44876
+"Greenwich","E09000011",289069,41576
+"Hackney","E09000012",259146,37020
+"Hammersmith and Fulham","E09000013",183158,22972
+"Haringey","E09000014",264238,36114
+"Harrow","E09000015",261203,31258
+"Havering","E09000016",262052,38449
+"Hillingdon","E09000017",305909,39466
+"Hounslow","E09000018",288181,35294
+"Islington","E09000019",216589,35063
+"Kensington and Chelsea","E09000020",143376,18311
+"Kingston upon Thames","E09000021",168063,21990
+"Lambeth","E09000022",317654,42017
+"Lewisham","E09000023",300553,43248
+"Merton","E09000024",215187,25902
+"Newham","E09000025",351036,42032
+"Redbridge","E09000026",310259,37022
+"Richmond upon Thames","E09000027",195278,23479
+"Southwark","E09000028",307637,42022
+"Sutton","E09000029",209639,29614
+"Tower Hamlets","E09000030",310306,40125
+"Waltham Forest","E09000031",278426,36762
+"Wandsworth","E09000032",327506,37444
+"Westminster","E09000033",204234,28122
+
+
+
+"","In order to protect against disclosure of personal information, records"
+"","have been swapped between different geographic areas and counts perturbed"
+"","by small amounts. Small counts at the lowest geographies will be most"
+"","affected."
+"",""
+

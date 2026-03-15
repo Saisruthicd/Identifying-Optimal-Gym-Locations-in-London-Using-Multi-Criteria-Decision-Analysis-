@@ -1,0 +1,51 @@
+
+"TS066 - Economic activity status"
+"ONS Crown Copyright Reserved [from Nomis on 9 April 2025]"
+"Population :","All usual residents aged 16 years and over"
+"Units      :","Persons"
+"Date       :","2021"
+
+"local authority: district / unitary (as of April 2023)","mnemonic","Total: All usual residents aged 16 years and over","Economically active (excluding full-time students)","Economically active and a full-time student"
+
+"Barking and Dagenham","E09000002",161746,97834,5833
+"Barnet","E09000003",309355,192234,7527
+"Bexley","E09000004",195827,121176,4170
+"Brent","E09000005",275142,167044,8938
+"Bromley","E09000006",265088,167027,4063
+"Camden","E09000007",177908,105519,6005
+"City of London","E09000001",8004,5555,123
+"Croydon","E09000008",310396,196811,7325
+"Ealing","E09000009",295371,182589,7702
+"Enfield","E09000010",257182,149864,6151
+"Greenwich","E09000011",229749,148221,6981
+"Hackney","E09000012",209466,140573,5194
+"Hammersmith and Fulham","E09000013",154632,101615,4157
+"Haringey","E09000014",216000,140381,5947
+"Harrow","E09000015",209623,128235,5307
+"Havering","E09000016",209730,128521,3911
+"Hillingdon","E09000017",241879,147804,6634
+"Hounslow","E09000018",228675,144652,5952
+"Islington","E09000019",183627,119433,5481
+"Kensington and Chelsea","E09000020",123089,72707,2365
+"Kingston upon Thames","E09000021",135467,85425,3960
+"Lambeth","E09000022",268942,190033,7108
+"Lewisham","E09000023",242417,162414,7165
+"Merton","E09000024",172772,115210,3690
+"Newham","E09000025",276173,168499,12240
+"Redbridge","E09000026",242020,145554,6912
+"Richmond upon Thames","E09000027",155835,100356,2465
+"Southwark","E09000028",256139,172319,8899
+"Sutton","E09000029",165659,106863,2947
+"Tower Hamlets","E09000030",252879,160439,10097
+"Waltham Forest","E09000031",222184,145653,6182
+"Wandsworth","E09000032",273559,195501,5927
+"Westminster","E09000033",177470,105737,4551
+
+
+
+"","In order to protect against disclosure of personal information, records"
+"","have been swapped between different geographic areas and counts perturbed"
+"","by small amounts. Small counts at the lowest geographies will be most"
+"","affected."
+"",""
+
